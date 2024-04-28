@@ -5,6 +5,7 @@
 ## install and update
 
 - take a look at the installation script
+- plug in usb-stick with ventoy installed
 - execute the installation script
     - ./install.sh
 
