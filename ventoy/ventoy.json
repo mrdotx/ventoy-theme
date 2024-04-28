@@ -1,0 +1,458 @@
+{
+    "control":[
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_TREE_VIEW_MENU_STYLE": "1" },
+        { "VTOY_MENU_TIMEOUT": "60" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/isos" },
+        { "VTOY_DEFAULT_IMAGE": "VTOY_EXIT" }
+    ],
+    "theme":{
+        "file": "/ventoy/themes/klassiker/theme.txt",
+        "gfxmode": "max",
+        "ventoy_left": "0%+2",
+        "ventoy_top": "100%-19",
+        "ventoy_color": "#2b2b2b"
+    },
+    "menu_alias":[
+        {
+            "dir": "/isos/diagnostic",
+            "alias": "Diagnostic Tools »"
+        },
+        {
+            "dir": "/isos/firmware",
+            "alias": "Firmware Update »"
+        },
+        {
+            "dir": "/isos/linux",
+            "alias": "Linux »"
+        },
+        {
+            "dir": "/isos/pentest",
+            "alias": "Penetration Testing »"
+        },
+        {
+            "dir": "/isos/rescue",
+            "alias": "System Rescue »"
+        },
+        {
+            "dir": "/isos/windows",
+            "alias": "Windows »"
+        }
+    ],
+    "menu_tip":{
+        "tips":[
+            {
+                "dir": "/isos/diagnostic",
+                "tip": "Media for system diagnostics"
+            },
+            {
+                "dir": "/isos/firmware",
+                "tip": "Media for firmware and bios updates"
+            },
+            {
+                "image": "/isos/firmware/m1wj9**usa.iso",
+                "tip": "Lenovo ThinkCentre M625q tiny, M625q thin client"
+            },
+            {
+                "image": "/isos/firmware/m47j9**usa.iso",
+                "tip": "Lenovo ThinkCentre M75q Gen 2 (Type 11JN, 11JQ, 11JR, 11JS)"
+            },
+            {
+                "dir": "/isos/linux",
+                "tip": "Media for Linux installation and live systems"
+            },
+            {
+                "dir": "/isos/pentest",
+                "tip": "Media for penetration testing installation and live systems"
+            },
+            {
+                "dir": "/isos/rescue",
+                "tip": "Media for system rescue and administration"
+            },
+            {
+                "dir": "/isos/windows",
+                "tip": "Media for Windows installation and repair"
+            }
+        ]
+    },
+    "menu_class":[
+        {
+            "key": "4M",
+            "class": "4mlinux"
+        },
+        {
+            "key": "alpine",
+            "class": "alpinelinux"
+        },
+        {
+            "key": "antergos",
+            "class": "antergos"
+        },
+        {
+            "key": "AOMEI",
+            "class": "aomeibackupper"
+        },
+        {
+            "key": "archcraft",
+            "class": "archcraft"
+        },
+        {
+            "key": "archlinux",
+            "class": "archlinux"
+        },
+        {
+            "key": "arco",
+            "class": "arcolinux"
+        },
+        {
+            "key": "artix",
+            "class": "artix"
+        },
+        {
+            "key": "avira",
+            "class": "avira"
+        },
+        {
+            "key": "blackarch",
+            "class": "archlinux"
+        },
+        {
+            "key": "boot-repair-disk",
+            "class": "bootrepairdisk"
+        },
+        {
+            "key": "brunch",
+            "class": "brunch"
+        },
+        {
+            "key": "Chakra",
+            "class": "chakra"
+        },
+        {
+            "key": "clonezilla",
+            "class": "clonezilla"
+        },
+        {
+            "key": "crunchbang",
+            "class": "crunchbang"
+        },
+        {
+            "key": "debian",
+            "class": "debian"
+        },
+        {
+            "key": "deepin",
+            "class": "deepin"
+        },
+        {
+            "key": "devuan",
+            "class": "devuan"
+        },
+        {
+            "key": "edubuntu",
+            "class": "edubuntu"
+        },
+        {
+            "key": "elcomsoft",
+            "class": "elcomsoft"
+        },
+        {
+            "key": "elementary",
+            "class": "elementary"
+        },
+        {
+            "key": "endeavouros",
+            "class": "endeavouros"
+        },
+        {
+            "key": "F4",
+            "class": "f4boot"
+        },
+        {
+            "key": "Fedora",
+            "class": "fedora"
+        },
+        {
+            "key": "finnix",
+            "class": "finnix"
+        },
+        {
+            "key": "FreeBSD",
+            "class": "freebsd"
+        },
+        {
+            "key": "fvbe",
+            "class": "frugalware"
+        },
+        {
+            "key": "gentoo",
+            "class": "gentoo"
+        },
+        {
+            "key": "gparted",
+            "class": "gparted"
+        },
+        {
+            "key": "grml64",
+            "class": "systemrescue"
+        },
+        {
+            "key": "grub2",
+            "class": "supergrub2"
+        },
+        {
+            "key": "haiku",
+            "class": "haiku"
+        },
+        {
+            "key": "HBCD",
+            "class": "hbcd"
+        },
+        {
+            "key": "HDAT2",
+            "class": "hdat2"
+        },
+        {
+            "key": "hdderase",
+            "class": "hdderase"
+        },
+        {
+            "key": "kali",
+            "class": "kali"
+        },
+        {
+            "key": "KaOS",
+            "class": "kaos"
+        },
+        {
+            "key": "Korora",
+            "class": "korora"
+        },
+        {
+            "key": "krd",
+            "class": "kaspersky"
+        },
+        {
+            "key": "kubuntu",
+            "class": "kubuntu"
+        },
+        {
+            "key": "linuxmint",
+            "class": "linuxmint"
+        },
+        {
+            "key": "lubuntu",
+            "class": "lubuntu"
+        },
+        {
+            "key": "Mageia",
+            "class": "mageia"
+        },
+        {
+            "key": "malwarebytes",
+            "class": "malwarebytes"
+        },
+        {
+            "key": "manjaro",
+            "class": "manjaro"
+        },
+        {
+            "key": "memtest86",
+            "class": "memtest86"
+        },
+        {
+            "key": "mt86plus",
+            "class": "memtest86plus"
+        },
+        {
+            "key": "MX",
+            "class": "mxlinux"
+        },
+        {
+            "key": "neon",
+            "class": "neon"
+        },
+        {
+            "key": "nixos",
+            "class": "nixos"
+        },
+        {
+            "key": "openSUSE",
+            "class": "opensuse"
+        },
+        {
+            "key": "Parrot",
+            "class": "parrot"
+        },
+        {
+            "key": "partedmagic",
+            "class": "partedmagic"
+        },
+        {
+            "key": "pop-os",
+            "class": "popos"
+        },
+        {
+            "key": "redorescue",
+            "class": "redorescue"
+        },
+        {
+            "key": "Regolith",
+            "class": "regolith"
+        },
+        {
+            "key": "rescatux",
+            "class": "rescatux"
+        },
+        {
+            "key": "rescuezilla",
+            "class": "rescuezilla"
+        },
+        {
+            "key": "Sabayon",
+            "class": "sabayon"
+        },
+        {
+            "key": "shredos",
+            "class": "shredos"
+        },
+        {
+            "key": "siduction",
+            "class": "siduction"
+        },
+        {
+            "key": "Solus",
+            "class": "solus"
+        },
+        {
+            "key": "spinrite",
+            "class": "spinrite"
+        },
+        {
+            "key": "steam",
+            "class": "steamos"
+        },
+        {
+            "key": "systemrescue",
+            "class": "systemrescuecd"
+        },
+        {
+            "key": "tails",
+            "class": "tails"
+        },
+        {
+            "key": "TUXEDO",
+            "class": "tuxedo"
+        },
+        {
+            "key": "ubuntudde",
+            "class": "ubuntudde"
+        },
+        {
+            "key": "xubuntu",
+            "class": "xubuntu"
+        },
+        {
+            "key": "void",
+            "class": "void"
+        },
+        {
+            "key": "vista",
+            "class": "winvista"
+        },
+        {
+            "key": "wipemydisks",
+            "class": "wipemydisks"
+        },
+        {
+            "key": "Win10",
+            "class": "windows"
+        },
+        {
+            "key": "Win11",
+            "class": "win11"
+        },
+        {
+            "key": "xp",
+            "class": "winxp"
+        },
+        {
+            "key": "Zorin",
+            "class": "zorinos"
+        },
+
+        {
+            "key": "android",
+            "class": "android"
+        },
+        {
+            "key": "bsd",
+            "class": "bsd"
+        },
+        {
+            "key": "linux",
+            "class": "linux"
+        },
+        {
+            "key": "osx",
+            "class": "macosx"
+        },
+        {
+            "key": "ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "key": "windows",
+            "class": "windows"
+        },
+
+        {
+            "dir": "/isos/diagnostic",
+            "class": "diagnostics"
+        },
+        {
+            "parent": "/isos/diagnostic",
+            "class": "diagnostics"
+        },
+        {
+            "dir": "/isos/firmware",
+            "class": "efi"
+        },
+        {
+            "parent": "/isos/firmware",
+            "class": "efi"
+        },
+        {
+            "dir": "/isos/linux",
+            "class": "linux"
+        },
+        {
+            "parent": "/isos/linux",
+            "class": "linux"
+        },
+        {
+            "dir": "/isos/pentest",
+            "class": "anonymous"
+        },
+        {
+            "parent": "/isos/pentest",
+            "class": "anonymous"
+        },
+        {
+            "dir": "/isos/rescue",
+            "class": "recovery"
+        },
+        {
+            "parent": "/isos/rescue",
+            "class": "recovery"
+        },
+        {
+            "dir": "/isos/windows",
+            "class": "windows"
+        },
+        {
+            "parent": "/isos/windows",
+            "class": "windows"
+        }
+    ]
+}

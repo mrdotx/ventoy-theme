@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="660"
+   height="150"
+   viewBox="0 0 174.625 39.6875"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (unknown)"
+   sodipodi:docname="klassikers_toolkit.svg"
+   inkscape:export-filename="klassikers_toolkit.png"
+   inkscape:export-xdpi="32"
+   inkscape:export-ydpi="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="321.5"
+     inkscape:cy="133.5"
+     inkscape:current-layer="foreground" />
+  <defs
+     id="defs1">
+    <rect
+       x="10.762042"
+       y="97.244826"
+       width="95.465664"
+       height="34.055654"
+       id="rect6" />
+    <rect
+       x="9.8137068"
+       y="10.992068"
+       width="359.1452"
+       height="76.279427"
+       id="rect5" />
+    <rect
+       x="7.7589916"
+       y="9.5583224"
+       width="470.59549"
+       height="63.281243"
+       id="rect4" />
+    <rect
+       x="660.45113"
+       y="0.32397364"
+       width="119.46096"
+       height="144.33824"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="foreground"
+     inkscape:groupmode="layer"
+     id="foreground"
+     style="display:inline"
+     transform="translate(0.43405462)">
+    <rect
+       style="fill:#4185d7;fill-opacity:1;stroke:#000000;stroke-width:0"
+       id="line"
+       width="1.5460248"
+       height="39.627979"
+       x="130.05728"
+       y="0.061395813" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.36780594,0,0,0.36780594,-107.68439,-6.019328)"
+       id="symbol"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:122.77px;line-height:1.25;font-family:'DejaVuSansM Nerd Font';-inkscape-font-specification:'DejaVuSansM Nerd Font';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);fill:#4185d7;fill-opacity:1;stroke:none"><tspan
+         x="660.45117"
+         y="113.56718"
+         id="tspan1">󱁤</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.37746362,0,0,0.37746362,-5.0311198,-6.2237215)"
+       id="klassikers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.4221px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#4185d7;fill-opacity:1;stroke:none"><tspan
+         x="9.8144531"
+         y="68.875409"
+         id="tspan2">Klassiker's</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.73807545,0,0,0.73807545,64.525732,-48.169226)"
+       id="toolkit"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.9426px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#4185d7;fill-opacity:1;stroke:none"><tspan
+         x="10.761719"
+         y="117.54296"
+         id="tspan3">Toolkit</tspan></text>
+  </g>
+</svg>
