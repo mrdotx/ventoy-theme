@@ -7,6 +7,7 @@
 - take a look at the installation script
 - plug in usb-stick with ventoy installed
 - execute the installation script
+    - chmod 755 install.sh
     - ./install.sh
 
 ## background image by
