@@ -142,5 +142,5 @@ terminal-border: "0"
 
     color = "#2b2b2b"
     align = "right"
-    text = "github.com/mrdotx  1.0.98"
+    text = "github.com/mrdotx  1.0.99"
 }
