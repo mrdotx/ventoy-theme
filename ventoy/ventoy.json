@@ -35,6 +35,10 @@
             "alias": "System Rescue »"
         },
         {
+            "dir": "/isos/security",
+            "alias": "Security »"
+        },
+        {
             "dir": "/isos/windows",
             "alias": "Windows »"
         }
@@ -43,11 +47,11 @@
         "tips":[
             {
                 "dir": "/isos/diagnostic",
-                "tip": "Media for system diagnostics"
+                "tip": "System diagnostic media"
             },
             {
                 "dir": "/isos/firmware",
-                "tip": "Media for firmware and bios updates"
+                "tip": "Firmware update media"
             },
             {
                 "image": "/isos/firmware/m1wj9**usa.iso",
@@ -59,19 +63,23 @@
             },
             {
                 "dir": "/isos/linux",
-                "tip": "Media for Linux installation and live systems"
+                "tip": "Linux live systems and installation media"
             },
             {
                 "dir": "/isos/pentest",
-                "tip": "Media for penetration testing installation and live systems"
+                "tip": "Penetration testing live systems and installation media"
             },
             {
                 "dir": "/isos/rescue",
-                "tip": "Media for system rescue and administration"
+                "tip": "System rescue live systems and administration media"
+            },
+            {
+                "dir": "/isos/security",
+                "tip": "Security live systems and installation media"
             },
             {
                 "dir": "/isos/windows",
-                "tip": "Media for Windows installation and repair"
+                "tip": "Windows installation and repair media"
             }
         ]
     },
@@ -445,6 +453,14 @@
         {
             "parent": "/isos/rescue",
             "class": "recovery"
+        },
+        {
+            "dir": "/isos/security",
+            "class": "security"
+        },
+        {
+            "parent": "/isos/security",
+            "class": "security"
         },
         {
             "dir": "/isos/windows",
