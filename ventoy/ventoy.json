@@ -62,6 +62,10 @@
                 "tip": "Lenovo ThinkCentre M75q Gen 2 (Type 11JN, 11JQ, 11JR, 11JS)"
             },
             {
+                "image": "/isos/firmware/r1buj**wd.iso",
+                "tip": "Lenovo ThinkPad T14 Gen 1 (Type 20UD, 20UE)"
+            },
+            {
                 "dir": "/isos/linux",
                 "tip": "Linux live systems and installation media"
             },
