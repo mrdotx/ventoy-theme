@@ -2,8 +2,8 @@
 
 # path:   /home/klassiker/.local/share/repos/ventoy-theme/install.sh
 # author: klassiker [mrdotx]
-# github: https://github.com/mrdotx/ventoy-theme
-# date:   2025-03-28T06:00:09+0100
+# url:    https://github.com/mrdotx/ventoy-theme
+# date:   2025-08-13T03:24:17+0200
 
 # auth can be something like sudo -A, doas -- or nothing,
 # depending on configuration requirements
